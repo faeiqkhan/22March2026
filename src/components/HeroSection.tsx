@@ -55,7 +55,7 @@ const HeroSection = () => {
           </h1>
           <p className="font-body text-lg md:text-xl text-gold tracking-[0.3em] uppercase mb-4">&</p>
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl italic text-deep-charcoal mb-6 tracking-tight">
-            Owaiz
+            Owais
           </h1>
           <p className="font-body text-base md:text-lg text-rose-taupe max-w-xl mx-auto leading-relaxed">
             With the blessings of Allah, two families came together
