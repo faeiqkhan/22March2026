@@ -62,7 +62,7 @@ const HeroSection = () => {
             with the intention of a shared future.
           </p>
           <p className="font-body text-sm text-gold mt-6 tracking-widest uppercase">
-            21st March 2026
+            22nd March 2026
           </p>
         </motion.div>
 
